@@ -15,6 +15,7 @@ wordcloud = "*"
 matplotlib = "*"
 seaborn = "*"
 vadersentiment = "*"
+python-decouple = "*"
 
 [dev-packages]
 ipykernel = "*"
